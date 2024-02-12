@@ -1,4 +1,4 @@
-# classico
+# Day Scheduler
 
 A new Flutter project.
 
